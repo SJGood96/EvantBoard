@@ -1,0 +1,15 @@
+.category {
+    display: inline-block;
+}
+
+.dropdownitem{
+ display: inline-block;
+}
+
+.name{
+    display: inline-block;  
+}
+
+.entername{
+    display: inline-block;
+}
